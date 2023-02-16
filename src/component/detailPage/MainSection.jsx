@@ -4,6 +4,7 @@ import { BiHome } from "react-icons/bi";
 import { GoMarkGithub } from "react-icons/go";
 import { FiMonitor } from "react-icons/fi";
 import '../../style/mainSection.scss'
+import MonitorSection from './MonitorSection';
 
 function MainSection() {
     const {state} = useLocation()
@@ -27,8 +28,8 @@ function MainSection() {
               <li><Link to={state.server}><span>SERVER</span><FiMonitor/></Link></li>
             </ul>
           </div>
-        <div className="mainImg wow fadeIn">
-          <img src={state.fullImg} alt="" />
+        <div className="mainImg">
+            <img src={state.fullImg} alt="web_image"/>
         </div>
         <div className="mainDesc">
           <h2 className='wow fadeInUp'>{state.title}</h2>
@@ -36,6 +37,7 @@ function MainSection() {
           <p className="wow fadeInUp" data-wow-delay='.2s'>{state.subTitle}</p>
         </div>
       </div>
+     <MonitorSection/>
     </div>
   )
 }

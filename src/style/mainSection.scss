@@ -73,13 +73,12 @@
         height: 100vh;
         overflow: hidden;
         box-sizing: border-box;
-        
         img{
             width: 100%;
             box-sizing: border-box;
         }
- 
     }
+
     .mainDesc {
         position: absolute;
         bottom: 7%;
@@ -114,5 +113,18 @@
         color: #fff;
     }
     }
-    
+
+}
+
+.monitorImg {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 100px 0;
+    .monitorOuter {
+        max-width: 1000px;
+        img {
+            width: 100%;
+        }
+    }
 }

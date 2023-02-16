@@ -1,18 +1,15 @@
 import { Link } from 'react-router-dom'
 import '../style/profile.scss'
+import profile from '../img/profile.jpeg'
 
 function Profile() {
 
-  const profileImg = {
-    src:"./image/profile.jpg",
-    alt:"profile"
-}
 
   return (
     <div className="profile">
         <Link to='./'>
         <div className="my_image">
-            <img src={profileImg.src} alt='프로필' />
+            <img src={profile} alt='프로필' />
         </div>
         <div className="desc">
             <span className='myName'>윤선화</span>

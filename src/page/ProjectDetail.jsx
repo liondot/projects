@@ -6,6 +6,7 @@ import MainSection from '../component/detailPage/MainSection';
 import IconSection from '../component/detailPage/IconSection';
 import Point from '../component/detailPage/Point';
 import { BiArrowToTop } from "react-icons/bi";
+import Responsive from '../component/detailPage/Responsive';
 
 
 
@@ -54,7 +55,9 @@ function ProjectDetail() {
       <span className={active ? "middleLine active" : "middleLine"}></span>
         <img src={state.fullImg} alt=""  className="wow fadeIn"/>
       </div>
-      <button className={goToTop ? "goToTop active" : "goToTop"} onClick={scrollToTop} type="button"><BiArrowToTop/></button>
+      <button className={goToTop ? "goToTop active" : "goToTop"} onClick={scrollToTop} type="button"><BiArrowToTop/>
+      </button>
+      <Responsive/>
     </div>
 
   )

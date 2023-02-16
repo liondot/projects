@@ -45,7 +45,7 @@ function Point() {
 
   return (
     <div className="point">
-        <h3>Preview</h3>
+        <h3>기능 구현 INDEX</h3>
         <span className={scroll ? "middleLine active" : "middleLine"}>
         </span>
         <div className='pointImg wow fadeInUp'>
@@ -55,16 +55,16 @@ function Point() {
           <div className='slickBox'>
           <Slider {...settings}>
               <div className='slick'>
-                <div>{state.preview[0].length > 0 ? <div className='slickImg'><p>PREVIEW 01</p>{state.preview[0]}</div> :"false"}</div>
+                <div>{state.preview[0].length > 0 ? <div className='slickImg'><p>INDEX 01</p>{state.preview[0]}</div> :"false"}</div>
               </div>
               <div className='slick'>
-              <div>{state.preview[1].length > 0 ? <div className='slickImg'><p>PREVIEW 02</p>{state.preview[1]}</div> : "false"}</div>
+              <div>{state.preview[1].length > 0 ? <div className='slickImg'><p>INDEX 02</p>{state.preview[1]}</div> : "false"}</div>
               </div>
               <div className='slick'>
-              <div>{state.preview[2].length > 0 ? <div className='slickImg'><p>PREVIEW 03</p>{state.preview[2]}</div> : "false"}</div>
+              <div>{state.preview[2].length > 0 ? <div className='slickImg'><p>INDEX 03</p>{state.preview[2]}</div> : "false"}</div>
               </div>
               <div className='slick'>
-              <div>{state.preview[3].length > 0 ? <div className='slickImg'><p>PREVIEW 04</p>{state.preview[3]}</div> : false} </div>
+              <div>{state.preview[3].length > 0 ? <div className='slickImg'><p>INDEX 04</p>{state.preview[3]}</div> : false} </div>
               </div>
             </Slider>
           </div>
