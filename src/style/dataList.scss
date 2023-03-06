@@ -58,7 +58,6 @@
         margin-left: 16px;
       }
       .my_image {
-        float: right;
         width: 140px;
         height: 140px;
 
@@ -97,10 +96,10 @@
       margin-top: 100px;
       li {
         border: 1px solid ;
-        width: 46%;
+        width: 43%;
         border-radius: 30px;
         background-color: none;
-        margin: 0 1px;
+        margin: 0 5px;
         a {
             margin: 0;
             padding: 5px 0;
@@ -112,9 +111,6 @@
       order: 2;
       margin-top: 0;
       max-width: 200px;
-      position: absolute;
-      left: 0;
-      top: 80px;
       ul {
         margin-bottom: 0;
         margin-left: 0;

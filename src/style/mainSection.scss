@@ -131,7 +131,25 @@
 
 @media only screen and (max-width: 800px) {
     .main_section {
-
+        .mainDesc {
+            right: 50px;
+            bottom: 15%;
+            color: #333;
+            max-width: 100%;
+            padding: 0 15px;
+            h2 {
+                font-size: 2rem;
+            }
+            p{
+                font-size: 1.2rem;
+            }
+            .middleLine {
+                display: none;
+            }
+            p {
+                color: #333;
+            }
+        }
         .topBtn {
             bottom: unset;
             ul {
@@ -151,25 +169,7 @@
             }
         }
     }
-   .mainDesc {
-        right: 50px;
-        bottom: 15%;
-        color: #333;
-        max-width: 100%;
-        padding: 0 15px;
-        h2 {
-            font-size: 2rem;
-        }
-        p{
-            font-size: 1.2rem;
-        }
-        .middleLine {
-            display: none;
-        }
-        p {
-            color: #333;
-        }
-    }
+ 
     .main_section:after {
         width: 100%;
         right: 0;

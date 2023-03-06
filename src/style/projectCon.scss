@@ -4,15 +4,16 @@
   align-items: center;
 
   .items {
+    position: relative;
     cursor: pointer;
     height: 100%;
     overflow: hidden;
     border-radius: 30px;
     overflow: hidden;
     border: 1px solid #ddd;
+    max-height: 300px;
     .item {
       box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-      position: relative;
       &:after {
         position: absolute;
         bottom: 0;
@@ -85,11 +86,10 @@
         }
         .itemTxt {
           position: absolute;
-          bottom: 16%;
-          left: 10%;
+          bottom: 11%;
           font-size: 20px;
           width: 100%;
-        //   max-width: 10px;
+          max-width: 130px;
           overflow: hidden;
           text-overflow: ellipsis;
           p {
