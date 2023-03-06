@@ -9,13 +9,13 @@ function MonitorSection() {
     <div className="monitorSection">
       <div className="monitorOuter">
         <div className="monitor wow fadeInUp">
-          <img src="/image/monitor.png" alt="monitor" />
+          <img src="./image/monitor.png" alt="monitor" />
           <div className="innerMonitor">
             <img src={state.fullImg} alt="" />
           </div>
         </div>
         <div className="mobile wow fadeInUp" data-wow-delay='.2s'>
-          <img src="../../public/image/iphone.png" alt="mobile" />
+          <img src="./image/iphone.png" alt="mobile" />
           <div className="innerMobile">
             <img src={state.responsive} alt="" />
           </div>
