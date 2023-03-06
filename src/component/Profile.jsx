@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import '../style/profile.scss'
-// import profile from '../../public/myprofile.png'
+import profile from './image/myprofile.png'
 
 
 
@@ -10,7 +10,7 @@ function Profile() {
     <div className="profile">
         <Link to='./'>
         <div className="my_image">
-          <img src="./image/myprofile.png" alt="" />
+          <img src={profile} alt="" />
         </div>
         
         <div className="desc">
