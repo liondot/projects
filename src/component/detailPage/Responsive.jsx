@@ -18,7 +18,7 @@ function Responsive() {
           </span>
         </div>
         <div className="mobile_web">
-          <img src="../../image/iphone.png" alt="device_bg" />
+          <img src="./image/iphone.png" alt="device_bg" />
         </div>
         <div className="mobilePage">
           <img src={state.responsive} alt="mobile" />
