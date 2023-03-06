@@ -31,7 +31,7 @@ function DesktopSection() {
           <CiDesktop className="icon"/>
           <span>Desktop Ver</span>
         </div>
-        <img className="monitor_bg" src="../../image/monitor.png" alt="monitor_bg" />
+        <img className="monitor_bg" src="image/monitor.png" alt="monitor_bg" />
         <div className="innerImg">
           <img src={state.fullImg} alt="full img" />
         </div>

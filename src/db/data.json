@@ -15,7 +15,7 @@
             "period" :  "60일",
             "state" : "웹사이트",
             "preview": ["반응형", "slick", "quick menu","검색창", "login ,logout Form"],
-            "responsive":"image/project/mo_review_full.png"
+            "responsive":"image/mo_review_full.png"
         },
         {
             "data": "website",
