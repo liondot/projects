@@ -15,7 +15,7 @@
             "period" :  "60일",
             "state" : "웹사이트",
             "preview": ["반응형", "slick", "quick menu","검색창", "login ,logout Form"],
-            "responsive":"/image/project/mo_review_full.png"
+            "responsive":"image/project/mo_review_full.png"
         },
         {
             "data": "website",
@@ -24,11 +24,11 @@
             "github": "https://github.com/liondot/tble_ver.0.2.0",
             "server": "https://liondot.github.io/tble_ver.0.2.0/",
             "skills": "html, css, j-query, fullpage.js",
-            "detailFull":"../image/tbble_pc.png",
+            "detailFull":"image/tbble_pc.png",
             "period" : "50일",
             "state" : "랜딩페이지",
             "preview": ["반응형", "slick", "고객데이터베이스 폼","fullpage.js"],
-            "responsive":"/image/tble_mo.png"
+            "responsive":"image/tble_mo.png"
         },
         {
             "data": "website",
@@ -37,9 +37,8 @@
             "github": "https://github.com/liondot/pomain_responsive",
             "server": "https://liondot.github.io/pomain_responsive/",
             "skills": "html, css, j-query, fullpage.js",
-            "image": "/image/pomain.png",   
-            "detailFull":"../image/pomain.png",
-            "responsive":"../image/pomain.png",
+            "detailFull":"image/pomain.png",
+            "responsive":"image/pomain.png",
             "period" : "10일",
             "state" : "원페이지 웹사이트",
             "preview": ["slick", "fullpage.js", "contents animation", "slick custom"]
@@ -51,8 +50,8 @@
             "github": "https://github.com/liondot/museum-responsive",
             "server": "https://liondot.github.io/museum-responsive/",
             "skills": "html, css, j-query",
-            "detailFull":"../image/musium.png",
-            "responsive":"../image/musium.png",
+            "detailFull":"image/musium.png",
+            "responsive":"image/musium.png",
             "period" : "4일",
             "state" : "원페이지 웹사이트",
             "preview": ["slick", "hijacking animation", "featherlight.js", "responsive"]
@@ -64,8 +63,8 @@
             "github": "https://github.com/liondot/moviebox",
             "server": "https://liondot.github.io/moviebox/",
             "skills": "html, css, j-query",
-            "detailFull":"../image/moviebox.png",
-            "responsive":"../image/mo_moviebox.png",
+            "detailFull":"image/moviebox.png",
+            "responsive":"image/mo_moviebox.png",
             "period" : "10일",
             "state" : "원페이지 웹사이트 반응형",
             "preview": ["slick", "slick custom", "responsive", ""]
@@ -77,8 +76,8 @@
             "github": "https://github.com/liondot/shoppingmall",
             "server": "https://liondot.github.io/shoppingmall/",
             "skills": "html, css, j-query",
-            "detailFull":"../image/vivid.png",
-            "responsive":"../image/vivid.png",
+            "detailFull":"image/vivid.png",
+            "responsive":"image/vivid.png",
             "period" : "1일",
             "state" : "원페이지 쇼핑몰 테스트 제작",
             "preview": ["slick", "slick custom", "테스트코딩", ""]
@@ -90,8 +89,8 @@
             "github": "https://github.com/liondot/yoogane",
             "server": "https://www.yoogane.co.kr/intro/main/main-2.html",
             "skills": "html, css, j-query",
-            "detailFull":"../image/yoogane.png",
-            "responsive":"../image/mo_yoogane.png",
+            "detailFull":"image/yoogane.png",
+            "responsive":"image/mo_yoogane.png",
             "period" : "2주",
             "state" : "랜딩페이지 제작",
             "preview": ["slick", "slick custom", "wow.js", "랜딩페이지"]
@@ -103,8 +102,8 @@
             "github": "https://github.com/liondot/lecture_market",
             "server": "https://yeogaevent.com/main/main.html",
             "skills": "html, css, j-query",
-            "detailFull":"../image/lecture.png",
-            "responsive":"../image/mo_lecture.png",
+            "detailFull":"image/lecture.png",
+            "responsive":"image/mo_lecture.png",
             "period" : "1주",
             "state" : "랜딩페이지 제작",
             "preview": ["slick", "slick custom", "wow.js", "랜딩페이지"]
@@ -116,8 +115,8 @@
             "github": "https://github.com/liondot/bulid_netflex",
             "server": "https://liondot.github.io/bulid_netflex//",
             "skills": "html, css, react",
-            "detailFull":"../image/pc_webservice_movie.png",
-            "responsive":"../image/mo_websiervice_movie.png",
+            "detailFull":"image/pc_webservice_movie.png",
+            "responsive":"image/mo_websiervice_movie.png",
             "period" : "2주",
             "state" : "반응형",
             "preview": ["get movie api", "style component", "router-dom", "detail page"]
@@ -129,8 +128,8 @@
             "github": "https://github.com/liondot/bulid_netflex",
             "server": "https://liondot.github.io/bulid_netflex//",
             "skills": "html, css, react",
-            "detailFull":"../image/build_net.png",
-            "responsive":"../image/mo_build.png",
+            "detailFull":"image/build_net.png",
+            "responsive":"image/mo_build.png",
             "period" : "1주",
             "state" : "반응형",
             "preview": ["get movie api", "next,preview custom", "router-dom", "set firebase"]
@@ -142,8 +141,8 @@
             "github": "https://github.com/liondot/clone_netf",
             "server": "https://liondot.github.io/clone_netf/",
             "skills": "html, css, react",
-            "detailFull":"../image/netflix_clone.png",
-            "responsive":"../image/netflix_clone.png",
+            "detailFull":"image/netflix_clone.png",
+            "responsive":"image/netflix_clone.png",
             "period" : "2주",
             "state" : "pc",
             "preview": ["movie api", "next,preview custom", "router-dom", ""]
