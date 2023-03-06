@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import '../style/profile.scss'
-import profile from './image/myprofile.png'
+import profile from './myprofile.png'
 
 
 
