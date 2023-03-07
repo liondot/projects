@@ -139,7 +139,7 @@
             "title": "netflix clone",
             "subTitle" : "netflex clone with movie api",
             "github": "https://github.com/liondot/clone_netf",
-            "server": "https://liondot.github.io/clone_netf/",
+            "server": "https://liondot.github.io/clone_netf",
             "skills": "html, css, react",
             "detailFull":"image/netflix_clone.png",
             "responsive":"image/netflix_clone.png",

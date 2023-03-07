@@ -128,18 +128,18 @@
     .monitor {
       .innerImg {
         margin: 0;
-    left: 0px;
-    padding: 0 32px;
-    top: 3%;
-    height: 62%;
-    max-width: 100%;
+        left: 0px;
+        padding: 0 32px;
+        top: 3%;
+        height: 62%;
+        max-width: 100%;
       }
       .desktopDesc {
         top: 350px;
         writing-mode: horizontal-tb;
         font-size: 18px;
         width: 100%;
-        left:0;
+        left: 0;
         &:after {
           left: 35%;
           width: 14px;
@@ -154,19 +154,18 @@
     .monitor_bg {
       padding: 0 20px;
     }
-  
   }
   .desktopSect {
-     .scroll {
-    top: -60px;
-    left: 27%;
-    writing-mode: horizontal-tb;
-    font-size: 17px;
+    .scroll {
+      top: -60px;
+      left: 27%;
+      writing-mode: horizontal-tb;
+      font-size: 17px;
+    }
+    .icon {
+      margin-bottom: 0;
+      font-size: 30px;
+      margin: 0 5px;
+    }
   }
-  .icon {
-    margin-bottom: 0;
-    font-size: 30px;
-    margin: 0 5px;
-  }
-}
 }
