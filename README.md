@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# 리엑트로 제작한 프로젝트 리스트 입니다. 
+https://liondot.github.io/projects
+
+## skills
+react, sass, responsive web
+
+## 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
