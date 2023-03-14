@@ -1,4 +1,4 @@
-# 리엑트로 제작한 프로젝트 리스트 입니다. 
+# 리엑트로 제작한 프로젝트 목록 입니다. 
 https://liondot.github.io/projects
 
 ## skills
