@@ -5,30 +5,17 @@
     ],
     "items":[
         {
-            "data": "website",
-            "title": "리뷰몬스터",
-            "subTitle" : "체험단 플랫폼 웹사이트 제작",
-            "github": "https://github.com/liondot/Review_monster",
-            "server": "https://liondot.github.io/Review_monster",
-            "skills": "html, css, sass, j-query, js, illust, photoshop",
-            "detailFull":"image/review_monster_full.png",
-            "period" :  "60일",
-            "state" : "웹사이트",
-            "preview": ["반응형", "slick", "quick menu","검색창", "login ,logout Form"],
-            "responsive":"image/mo_review_full.png"
-        },
-        {
-            "data": "website",
-            "title": "티블",
-            "subTitle" : "체험단 플랫폼 랜딩페이지 제작",
-            "github": "https://github.com/liondot/tble_ver.0.2.0",
-            "server": "https://liondot.github.io/tble_ver.0.2.0",
-            "skills": "html, css, j-query, fullpage.js",
-            "detailFull":"image/tbble_pc.png",
-            "period" : "50일",
-            "state" : "랜딩페이지",
-            "preview": ["반응형", "slick", "고객데이터베이스 폼","fullpage.js"],
-            "responsive":"image/tble_mo.png"
+            "data": "project",
+            "title": "movie_web",
+            "subTitle" : "movie web service with react ",
+            "github": "https://github.com/liondot/bulid_netflex",
+            "server": "https://liondot.github.io/bulid_netflex",
+            "skills": "html, css, react",
+            "detailFull":"image/pc_webservice_movie.png",
+            "responsive":"image/mo_websiervice_movie.png",
+            "period" : "2주",
+            "state" : "반응형",
+            "preview": ["get movie api", "style component", "router-dom", "detail page"]
         },
         {
             "data": "website",
@@ -84,6 +71,32 @@
         },
         {
             "data": "website",
+            "title": "리뷰몬스터",
+            "subTitle" : "체험단 플랫폼 웹사이트 제작",
+            "github": "https://github.com/liondot/Review_monster",
+            "server": "https://liondot.github.io/Review_monster",
+            "skills": "html, css, sass, j-query, js, illust, photoshop",
+            "detailFull":"image/review_monster_full.png",
+            "period" :  "60일",
+            "state" : "웹사이트",
+            "preview": ["반응형", "slick", "quick menu","검색창", "login ,logout Form"],
+            "responsive":"image/mo_review_full.png"
+        },
+        {
+            "data": "website",
+            "title": "티블",
+            "subTitle" : "체험단 플랫폼 랜딩페이지 제작",
+            "github": "https://github.com/liondot/tble_ver.0.2.0",
+            "server": "https://liondot.github.io/tble_ver.0.2.0",
+            "skills": "html, css, j-query, fullpage.js",
+            "detailFull":"image/tbble_pc.png",
+            "period" : "50일",
+            "state" : "랜딩페이지",
+            "preview": ["반응형", "slick", "고객데이터베이스 폼","fullpage.js"],
+            "responsive":"image/tble_mo.png"
+        },
+        {
+            "data": "website",
             "title": "유가네닭갈비",
             "subTitle" : "유가네닭갈비 랜딩페이지제작",
             "github": "https://github.com/liondot/yoogane",
@@ -107,19 +120,6 @@
             "period" : "1주",
             "state" : "랜딩페이지 제작",
             "preview": ["slick", "slick custom", "wow.js", "랜딩페이지"]
-        },
-        {
-            "data": "project",
-            "title": "movie_web",
-            "subTitle" : "movie web service with react ",
-            "github": "https://github.com/liondot/bulid_netflex",
-            "server": "https://liondot.github.io/bulid_netflex",
-            "skills": "html, css, react",
-            "detailFull":"image/pc_webservice_movie.png",
-            "responsive":"image/mo_websiervice_movie.png",
-            "period" : "2주",
-            "state" : "반응형",
-            "preview": ["get movie api", "style component", "router-dom", "detail page"]
         },
         {
             "data": "project",
