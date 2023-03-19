@@ -8,15 +8,7 @@
 <br/>
 
 ## - steck 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white">
-<img src="https://img.shields.io/badge/npm-61DAFB?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/React Router-CB3837?style=for-the-badge&logo=React Router&logoColor=white">
-<img src="https://img.shields.io/badge/JSON
--000000?style=for-the-badge&logo=JSON
-&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white"> <img src="https://img.shields.io/badge/npm-61DAFB?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CB3837?style=for-the-badge&logo=React Router&logoColor=white">
 
 
 <br/>
@@ -35,8 +27,7 @@ ___
 data로 분류한 카테고리 링크를 클릭 시 해당 영역이 나뉘어 출력됩니다.
 
 <img src="./readmeImg/data.png" width="500px"  title="data"/>
-<img src="./readmeImg/category.png" width="200px"  title="data"/>
-<img src="./readmeImg/all.png" width="163px"  title="data"/> 
+<img src="./readmeImg/category.png" width="200px"  title="data"/> <img src="./readmeImg/all.png" width="163px"  title="data"/> 
 
 ___ 
 <br/>
@@ -54,8 +45,7 @@ ___
 스크롤을 통해 Top 값이 변경될 때 의 ui를 논리 연산자를 통해 상태에 따라 다르게 보여주었습니다. 
 이는 사용자의 컨텐츠 소비 를 더욱 효율적으로 보여주기 위해 작업되었습니다.
 
- <img src="./readmeImg/main1.png" width="300px"  title="subpage"/>
- <img src="./readmeImg/main2.png" width="300px"  title="subpage"/>
+ <img src="./readmeImg/main1.png" width="300px"  title="subpage"/> <img src="./readmeImg/main2.png" width="300px"  title="subpage"/>
 <br/><br/>
 
 ___
@@ -72,7 +62,7 @@ ___
 <br/>
 
  5. Desktop, mobile을 simulation으로 체험할 수 있는 ui scroll down 영역입니다.
- 
+
      <img src="./readmeImg/simulation.png" width="300px"  title="subpage"/>
 
      <br/><br/>
