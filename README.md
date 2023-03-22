@@ -42,7 +42,7 @@ ___
 <br/>
 
 3. Quick menu 인 메인으로 넘어가기, github, server 버튼을 윈도우가 최상단일 경우와 
-스크롤을 통해 Top 값이 변경될 때 의 ui를 논리 연산자를 통해 상태에 따라 다르게 보여주었습니다. 
+스크롤을 통해 Top 값이 변경될 때 의 ui를 조건부 연산자를 통해 상태에 따라 다르게 보여주었습니다. 
 이는 사용자의 컨텐츠 소비 를 더욱 효율적으로 보여주기 위해 작업되었습니다.
 
  <img src="./readmeImg/main1.png" width="300px"  title="subpage"/> <img src="./readmeImg/main2.png" width="300px"  title="subpage"/>
