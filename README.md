@@ -1,9 +1,9 @@
 # 리엑트로 제작한 프로젝트 입니다. [Link](https://liondot.github.io/projects)
 
 ## - 목적 
-```
+
 프로젝트를 한 눈에 보기 쉽게 목록으로 만든 페이지를 리액트로 제작.
-```
+
 
 <br/>
 
@@ -14,9 +14,9 @@
 <br/>
 
 ## - install  
-```
+
 react-icon, swiper, sass, wow
-```
+
 
 ___
 <br/>
